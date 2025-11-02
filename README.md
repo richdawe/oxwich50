@@ -14,6 +14,9 @@ The keyboard is named after [Oxwich](https://en.wikipedia.org/wiki/Oxwich), whic
 
  - [ ] Licence for h/w
  - [ ] Add photos
- - [ ] List of limitations with v1 (plate hole in wrong place, stab screw conflict with 60% case post, maybe unnecessary holes? in the plate for 60% cases I use) (also need to clip one of the legs on a switch going in the RHS enter position - this is on the RHS, row above bottom one)
+ - [ ] List of limitations with v1
+   - [ ] plate hole in wrong place, stab screw conflict with 60% case post, maybe unnecessary holes? in the plate for 60% cases I use
+   - [ ] also need to clip one of the plastic legs on a switch going in the RHS enter position - this is on the RHS, row above bottom one; was this with 5-pin switches?
+   - [ ] holes for stabs are quite tight, could make them wider - also would they fit more stabs if they were taller?
  - [ ] Make the PCB compatible with o-ring mounting in a Bakeneko60 case
-- [ ] Other improvements? E.g.: Expose Pico debug connector for debugging QMK with the Rasbperry Pi debug peripheral?
+ - [ ] Other improvements? E.g.: Expose Pico debug connector for debugging QMK with the Rasbperry Pi debug peripheral?
